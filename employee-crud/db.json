@@ -1,0 +1,31 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "jitesh",
+      "email": "j@gmail.com",
+      "phone": 9049444183
+    },
+    {
+      "name": "Jitesh Subhash Nahire",
+      "email": "Jiteshnahire@gmail.com",
+      "phone": "09049444183",
+      "active": true,
+      "id": 2
+    },
+    {
+      "name": "ram",
+      "email": "Ram@gmail.com",
+      "phone": "09049444183",
+      "active": false,
+      "id": 3
+    },
+    {
+      "name": "MSd dhoni",
+      "email": "ms@gmail.com",
+      "phone": "0999999999",
+      "active": true,
+      "id": 4
+    }
+  ]
+}
